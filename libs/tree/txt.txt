@@ -1,0 +1,26 @@
+init_Tree 1) malloc: 0x4a3e040 +
+set_value 1) malloc: 0x4a3e520 +
+set_value 2) malloc: 0x4a3e570 +
+set_value 1) malloc: 0x4a3e5c0 +
+set_value 2) malloc: 0x4a3e610 +
+set_value 1) malloc: 0x4a3e660 +
+set_value 2) malloc: 0x4a3e6b0 +
+init_Tree 1) malloc: 0x4a3e700 +
+init_Tree 1) malloc: 0x4a3e7a0 +
+set_value 1) malloc: 0x4a3e840 +
+set_value 2) malloc: 0x4a3e890 -
+set_value 1) malloc: 0x4a3e8e0 +
+set_value 2) malloc: 0x4a3e930 +
+
+free_tree 1) free: 0x4a3e520
+free_info 1) free: 0x4a3e570
+free_tree 1) free: 0x4a3e8e0
+free_info 1) free: 0x4a3e930
+free_tree 1) free: 0x4a3e840
+free_tree 2) free: 0x4a3e040
+free_tree 1) free: 0x4a3e660
+free_info 1) free: 0x4a3e6b0
+free_tree 2) free: 0x4a3e700
+free_tree 1) free: 0x4a3e5c0
+free_info 1) free: 0x4a3e610
+free_tree 2) free: 0x4a3e7a0

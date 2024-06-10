@@ -1,0 +1,8 @@
+*.vscode
+/data
+*.a
+*.o
+*.out
+*test*
+*run
+*.dot
